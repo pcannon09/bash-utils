@@ -1,0 +1,10 @@
+# Testing
+fileTesting/
+
+# Unwanted
+*.bak
+*.swp
+*.log
+
+# OS
+.DS_Store
