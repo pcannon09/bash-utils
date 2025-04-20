@@ -4,4 +4,6 @@
 source aliases.sh
 source copy.sh
 source cd.sh
+source other.sh
+source colors.sh
 
